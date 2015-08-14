@@ -5,7 +5,10 @@
   "author": "Bruno Duyé",
   "description": "This extension force blitzortung.org dynamic map to keep active when focus is lost. Usefull for multi screen access.",
   "version": "0.1",
-  "icons": {"128": "light.png"},
+  "icons": {
+      "64": "light-128.png",
+      "128": "light-128.png"
+  },
 
   "content_scripts": [
      {

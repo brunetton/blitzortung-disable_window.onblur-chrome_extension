@@ -4,3 +4,8 @@ I really love Blitzortung project, and I often keep an eye in one of my screens 
 The default `window.onblur()` method that disconnect from the server when focus is lost is stopping me from watching.
 
 With this extension you can use Blitzortung.org dynamic map while doing something else in other application.
+
+
+## Installation :
+
+https://chrome.google.com/webstore/detail/blitzortung-always-active/mgghfmdambibgioeeiclkclkaljlcanp
